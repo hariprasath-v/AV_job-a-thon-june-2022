@@ -8,7 +8,7 @@
 ### Machine learning model to predict if the user would buy the product in the next 3 months or not based on the user's past activities and user-level information.
 
 
-### Competition public LB Rank:14/836
+### Competition private LB Rank:14/836
 
 ### Final Score 0.7540983607
 
