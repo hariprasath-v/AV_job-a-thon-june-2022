@@ -26,7 +26,7 @@
     
     
     
-* AV_job_a_thon_april_2022_Model.ipynb
+* AV-job-a-thon-june-2022-Model.ipynb
     ### Packages Used,
         * Sklearn
         * Pandas
@@ -34,9 +34,9 @@
         * Matplotlib
         * pycaret
        
-     ### Data Pre-processing         
+     ### Data Pre-processing        
      ### Compared multiple classifiers using pycaret’s compare_models function. Then took the top 3 models based on the f1              score then blend the model by using pycaret blend_models function. 
-     ### For more information about check out [https://github.com/hariprasath-v/AV_job-a-thon-june-2022/blob/main/AV_job-a-thon-june-2022-Approach.pdf]
+     ### [For more information aboutthe model check out this](https://github.com/hariprasath-v/AV_job-a-thon-june-2022/blob/main/AV_job-a-thon-june-2022-Approach.pdf)
      
 
 ### ROC curve
